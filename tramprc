@@ -1,0 +1,3 @@
+for file in /tmp/.vinayak/*.sh; do
+  source "$file"
+done
